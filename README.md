@@ -16,6 +16,17 @@ Unsupervised Learning has two key attributes - **Clustering** and **Dimensionali
 ### Dimenstionality Reduction 
 Objective is called - **Reward** to an **agent** who takes action to adapt to learn from the **Environment**
 
+## Lab
+
+- The notebook instance itself does not need a high computing resource. Attach Elastic Inference if more GPU is needed
+- Use Conda Python 3 notebook to use XG Boost algorithm
+- Jupyter Lab commands shortcuts
+    - A - adds a shell above current row
+    - B - adds a shell below
+    - Enter - goes to the selected shell
+    - Shift + Enter - runs and goes to next shell
+    - Ctrl + Enter - runs and stays at the same shell
+
 
 
 
